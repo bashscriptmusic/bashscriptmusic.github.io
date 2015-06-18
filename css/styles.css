@@ -1,8 +1,23 @@
 body {
 	background-color: #000;
+	text-align: center;
 }
 
 .logo {
-	height: 100px;
+	height: 150px;
+	margin: 30px;
+}
+
+div.main {
 	text-align: center;
+}
+
+div.content {
+	text-align: center;
+	display: block;
+}
+
+img.album {
+	width: 400px;
+	height: 400px;
 }
